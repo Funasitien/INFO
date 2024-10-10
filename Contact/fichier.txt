@@ -1,0 +1,32 @@
+Guilhem:CANIS:Mail.com:06-68-94-47-**:NULL:04/10/2007
+Julien:CANIS:mail.to:06-68-94-47-**:NULL:04/10/2007
+Jean:Dupont:jean@gmail.fr:06-12-34-56-78:123 Rue de la Paix, Paris:01/01/2020
+Marie:Durand:marie@yahoo.fr:06-15-29-37-46:321 Avenue des Champs-Elysées, Paris:15/12/2019
+Michael:Martin:michael@hotmail.fr:06-73-82-57-49:987 Rue du Bois, Lyon:28/02/2020
+Linda:Robert:linda@icloud.fr:06-15-29-57-31:274 Rue de la Liberté, Marseille:10/01/2021
+Guillaume:Lemoine:guillaume@att.net:06-28-37-58-46:159 Chemin des Lilas, Nice:15/03/2020
+David:Dupuis:david@outlook.fr:06-47-38-59-27:485 Rue du Chene, Toulouse:24/02/2021
+Jacques:Petit:jacques@aol.fr:06-82-69-31-57:369 Avenue des Forets, Lille:30/11/2020
+Robert:Dubois:robert@verizon.net:06-52-19-73-61:258 Impasse des Lauriers, Bordeaux:31/03/2021
+Michael:Roy:michael@centurylink.net:06-27-38-93-71:369 Rue du Saule, Strasbourg:17/08/2020
+Guillaume:Bernard:guillaumeb@charter.net:06-82-19-93-72:159 Avenue du Chene, Nantes:10/12/2019
+David:Garcia:davidg@frontier.com:06-28-19-38-91:485 Chemin du Genevrier, Rennes:01/05/2020
+Jacques:Leclerc:jacquesl@cox.net:06-81-39-98-72:369 Allée du Bouleau, Montpellier:15/01/2021
+Thomas:Robert:thomasr@gmail.fr:06-91-28-38-72:491 Avenue des Lauriers, Le Mans:30/11/2019
+Robert:Martin:robertm@gmail.fr:06-27-31-38-51:258 Rue du Saule, Angers:05/02/2021
+Michael:Garcia:michaelg@gmail.fr:06-39-20-38-91:370 Chemin du Chene, Dijon:25/12/2020
+Guillaume:Dupuis:guillaumedu@gmail.fr:06-31-48-38-72:158 Rue de l'Érable, Nîmes:01/01/2021
+David:Leclerc:davidl@nd.fr:06-12-39-93-81:486 Impasse du Cedre, Le Havre:15/04/2020
+Jacques:Roy:jacquesr@tamu.fr:06-39-10-38-92:469 Route de la Foret, Amiens:30/06/2020
+Richard:Robert:richardr@mit.fr:06-91-20-93-81:257 Avenue des Lauriers, Clermont-Ferrand:10/04/2021
+Joseph:Martin:josephm@nps.fr:06-28-39-93-81:350 Rue du Saule, Toulon:05/08/2020
+Christophe:Garcia:christophe@cornell.fr:06-92-10-93-81:484 Avenue du Pin, Brest:15/11/2019
+Daniel:Leclerc:daniell@umich.fr:06-41-38-93-81:368 Allée du Bouleau, Caen:25/01/2021
+Matthieu:Thomas:matthieut@iastate.fr:06-30-19-93-81:122 Boulevard du Chene, Grenoble:01/03/2020
+Anthony:Roy:anthonyr@asu.fr:06-71-19-93-81:468 Boulevard de la Foret, Toulon:10/09/2020
+Denis:Garcia:denisg@unc.fr:06-39-18-93-81:483 Rue du Cedre, Saint-Etienne:05/03/2021
+Stéphane:Leclerc:stephanel@wisc.fr:06-82-39-93-81:367 Chemin du Bouleau, Nancy:20/11/2020
+Paul:Thomas:pault@umd.fr:06-32-19-93-81:121 Rue du Pin, Bayonne:25/12/2010
+Jean:Claude:jean.claude@dreamclouds.fr:01-23-45-67-89:18 rue du Tournesol, Feurs:12/08/1999
+Charlie :Daniel:mail.mail@mail.com:06-65-89-87-47:zqd:04/05/1259
+tr:tze:te:tez:etz:etz
