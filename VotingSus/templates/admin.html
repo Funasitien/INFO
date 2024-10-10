@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1 class="font-black py-4">{% block title %}Panel Admin{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+
+<div class="card w-96 lg:w-1/2 bg-base-200 shadow-xl mx-auto">
+    <div class="card-body">
+      <h2 class="card-title">Résultats Actuels</h2>
+      {% for name in result %}
+      <p>{{ name }}: {{ result[name] }}</p>
+      {% endfor %}
+      <div class="card-actions justify-end">
+        <a class="btn btn-error" href="/admin/reset?sure=False">Mise à zéro</a>
+        <a class="btn" href="/">Retour au mode de vote</a>
+      </div>
+    </div>
+  </div>
+{% endblock %}
